@@ -1,1 +1,2 @@
 # HR Analysis: SQL Queries for Employee and Department Data
+This repository contains advanced SQL queries focused on data retrieval, transformation, and analysis from the HR database. These queries span over three pages and involve operations on EMP, DEPT, and LOCATIONS tables. The queries are designed to extract useful insights from HR data by performing string manipulation, aggregation, mathematical operations, and formatting.
