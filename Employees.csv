@@ -1,0 +1,51 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,MANAGER_NAME,HIRE_DATE,JOB_ID,SALARY,DEPARTMENT_ID
+198,Donald,OConnell,Alex Johnson,2007-06-21,SH_CLERK,2600,50
+199,Douglas,Grant,Maria Smith,2008-01-13,SH_CLERK,2600,50
+200,Jennifer,Whalen,Jane Williams,2003-09-17,AD_ASST,4400,115
+201,Michael,Hartstein,Michael Brown,2004-02-17,MK_MAN,13000,114
+202,Pat,Fay,Emily Davis,2005-08-17,MK_REP,6000,113
+203,Susan,Mavris,Chris Wilson,2002-06-07,HR_REP,6500,80
+204,Hermann,Baer,Sarah Taylor,2002-06-07,PR_REP,10000,70
+205,Shelley,Higgins,David Anderson,2002-06-07,AC_MGR,12008,112
+206,William,Gietz,Laura Thomas,2002-06-07,AC_ACCOUNT,8300,110
+100,Steven,King,Robert Jackson,2003-06-17,AD_PRES,24000,111
+101,Neena,Kochhar,Linda White,2005-09-21,AD_VP,17000,90
+102,Lex,De Haan,James Harris,2001-01-13,AD_VP,17000,90
+103,Alexander,Hunold,Patricia Martin,2006-01-03,IT_PROG,9000,60
+104,Bruce,Ernst,Daniel Thompson,2007-05-21,IT_PROG,6000,60
+105,David,Austin,Barbara Garcia,2005-06-25,IT_PROG,4800,60
+106,Valli,Pataballa,Richard Martinez,2006-02-05,IT_PROG,4800,60
+107,Diana,Lorentz,Susan Clark,2007-02-07,IT_PROG,4200,60
+108,Nancy,Greenberg,Charles Lewis,2002-08-17,FI_ACCOUNT,12008,100
+109,Daniel,Faviet,Jessica Walker,2002-08-16,FI_ACCOUNT,9000,100
+110,John,Chen,Joseph Lee,2005-09-28,FI_ACCOUNT,8200,100
+111,Ismael,Sciarra,Karen Hall,2005-09-30,FI_ACCOUNT,7700,100
+112,Jose Manuel,Urman,Thomas Allen,2006-03-07,FI_ACCOUNT,7800,100
+113,Luis,Popp,Michelle Young,2007-12-07,FI_ACCOUNT,6900,100
+114,Den,Raphaely,Mark King,2002-12-07,PU_CLERK,11000,30
+115,Alexander,Khoo,Nancy Wright,2003-05-18,PU_CLERK,3100,30
+116,Shelli,Baida,Paul Scott,2005-12-24,PU_CLERK,2900,30
+117,Sigal,Tobias,Sandra Green,2005-07-24,PU_CLERK,2800,30
+118,Guy,Himuro,Steven Adams,2006-11-15,PU_CLERK,2600,30
+119,Karen,Colmenares,Betty Baker,2007-08-10,PU_CLERK,2500,30
+120,Matthew,Weiss,Kevin Gonzalez,2004-07-18,SH_CLERK,8000,50
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
